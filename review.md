@@ -6,7 +6,7 @@ author:
   email: aheiss@gsu.edu
 date: December 18, 2020
 published: Forthcoming in *Contemporary Sociology*.
-git-repo: https://example.com
+git-repo: https://github.com/andrewheiss/review-death-idealism
 ---
 
 \noindent
