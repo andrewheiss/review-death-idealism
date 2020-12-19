@@ -1,0 +1,5 @@
+submissions/*
+tex_out/*
+*.tex
+*.html
+*.docx
